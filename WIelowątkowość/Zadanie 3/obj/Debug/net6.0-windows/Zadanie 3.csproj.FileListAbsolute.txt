@@ -1,0 +1,17 @@
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.csproj.AssemblyReference.cache
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie_3.Form1.resources
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.csproj.GenerateResource.cache
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.AssemblyInfoInputs.cache
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.AssemblyInfo.cs
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\bin\Debug\net6.0-windows\Zadanie 3.exe
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\bin\Debug\net6.0-windows\Zadanie 3.deps.json
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\bin\Debug\net6.0-windows\Zadanie 3.runtimeconfig.json
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\bin\Debug\net6.0-windows\Zadanie 3.dll
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\bin\Debug\net6.0-windows\Zadanie 3.pdb
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.dll
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\refint\Zadanie 3.dll
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.pdb
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\Zadanie 3.genruntimeconfig.cache
+C:\Users\mrych\source\repos\Zadanie 3\Zadanie 3\obj\Debug\net6.0-windows\ref\Zadanie 3.dll
